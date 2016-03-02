@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100hv;
+    background-image: url(https://unsplash.it/1920/1080/?random);
+    
+    
+}
+
+#clock{
+    color: white;
+    text-align: center;
+    font-size: 10vmax;
+    font-family: sans-serif;
+    padding-top: calc(50vh - 5vmax);
+    
+}

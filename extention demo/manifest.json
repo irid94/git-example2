@@ -1,0 +1,9 @@
+{
+  "name": "Crash course",
+  "description": "This is what we built today",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
+  "chrome_url_overrides": {
+        "newtab": "index.html"
+  }
+}
